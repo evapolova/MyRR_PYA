@@ -1,1 +1,1 @@
-This file shows info about project
+Autor Polova Yeva
