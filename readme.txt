@@ -1,2 +1,1 @@
-Польова Єва
-КН-223б
+This file shows info about project
